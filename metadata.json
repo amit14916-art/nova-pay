@@ -1,0 +1,7 @@
+{
+  "name": "NovaPay - Futuristic Finance",
+  "description": "A sleek, glassmorphic payment application featuring AI-driven financial insights, real-time transaction tracking, and a futuristic dark-mode interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
